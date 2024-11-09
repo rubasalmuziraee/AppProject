@@ -28,19 +28,19 @@ The methodology for SmartWallet includes user research and development using var
 
 The following system architecture outlines how the application and various components work together to achieve the objectives of the SmartWallet app.
 
-![System Architecture](imagesmartwallet/METHODOLOGY.png)
+![System Architecture](imagessmartwallet/METHODOLOGY.png)
 
 ### Scope
 
 This application aims to provide comprehensive management of expenses, savings, and financial awareness. Below is an overview of the application’s functionality:
 
-![Scope](imagesmartwallet/SCOPE.png)
+![Scope](imagessmartwallet/SCOPE.png)
 
 ### Design
 
 SmartWallet was built using Android Studio with Firebase for backend services and SQLite for local data storage.
 
-![Design](imagesmartwallet/DESIGN.png)
+![Design](imagessmartwallet/DESIGN.png)
 
 ### Implementation
 
